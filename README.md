@@ -133,6 +133,6 @@ Sinais de áudio de baixa qualidade. Tente:
 
 **Stack:** faster-whisper + CTranslate2 + Silero VAD
 **Privacidade:** áudio nunca sai da máquina. Apenas o modelo é baixado uma vez.
-**Licença:** uso interno Aliare.
+**Licença:** livre.
 
-Goiânia, Brasil · AgriTech · 2026
+Goiânia, Brasil · 2026
